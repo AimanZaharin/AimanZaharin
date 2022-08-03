@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/naimanzaharin" target="blank"><img src="https://img.shields.io/twitter/follow/naimanzaharin?logo=twitter&style=for-the-badge" alt="naimanzaharin" /></a> </p>
 
-- 🔭 I’m currently studying at **International Islamic University Malaysia**
+- 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence** at **International Islamic University Malaysia**
 
-- 🌱 I’m currently learning **Computer Science specialized in Data Science and Computational Intelligence**
+- 🌱 Currently doing leetCode to improve my coding skills
 
 - 📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
 
