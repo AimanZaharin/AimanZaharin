@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" /></p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AimanZaharin&hide=html,tex&theme=onedark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AimanZaharin,tex&theme=onedark)
