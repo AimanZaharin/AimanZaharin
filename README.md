@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence at International Islamic University Malaysia**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently enhancing my machine learning and data science skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
 
-- 📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
+- 📫 How to reach me **naimanzaharin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
