@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aiman Zaharin</h1>
+<h1 align="center">Hi there, I'm Aiman Zaharin</h1>
 <h3 align="center">A young developer from Malaysia</h3>
 
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naimanzaharin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naimanzaharin" height="30" width="40" /></a>
 <a href="https://instagram.com/naimanzaharin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimanzaharin" height="30" width="40" /></a>
 </p>
 
