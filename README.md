@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/naimanzaharin" target="blank"><img src="https://img.shields.io/twitter/follow/naimanzaharin?logo=twitter&style=for-the-badge" alt="naimanzaharin" /></a> </p>
-
 - 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence at International Islamic University Malaysia**
 
 - 🌱 I’m currently enhancing my machine learning and data science skills
