@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
 
-- 📫 How to reach me **naimanzaharin@gmail.com**
+- 📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
