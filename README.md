@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Aiman Zaharin</h1>
-<h3 align="center">A young developer from Malaysia</h3>
+<h3 align="center">A young data scientist from Malaysia</h3>
 
-- 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence at International Islamic University Malaysia**
-
-- 🌱 I’m currently enhancing my machine learning and data science skills
+- 🔭 I’m a **Computer Science** student majoring in **Data Science and Computational Intelligence** at International Islamic University Malaysia.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
 
