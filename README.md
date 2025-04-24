@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8qN25g%2FSwKTR%2FcZB8muHw%3D%3D), a Data and Machine Learning Scientist in Kuala Lumpur, Malaysia.
+I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8qN25g%2FSwKTR%2FcZB8muHw%3D%3D), a Data Scientist and Machine Learning Engineer in Kuala Lumpur, Malaysia.
 
 I am currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
 
