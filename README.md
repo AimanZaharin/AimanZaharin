@@ -2,6 +2,10 @@
 <h3 align="center">A young data scientist from Malaysia</h3>
 
 - 🔭 I’m a **Computer Science** student majoring in **Data Science and Computational Intelligence** at International Islamic University Malaysia.
+- 💼 Currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
+- 🎓 BSc in **Computer Science** (Data Science and AI).
+- 🌱 I'm a 4th-year student specializing in Data Science and Computational Intelligence, and I describe myself in three words: **passionate**, **determined**, and **organized**.
+- 👨‍💻 I'm committed to diving deep into the complexities of **Computer Science** and continuously expanding my knowledge in this dynamic field.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
 
