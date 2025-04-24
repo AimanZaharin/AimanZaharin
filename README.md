@@ -4,9 +4,9 @@ I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3
 
 I am currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
 
-I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
+I am deeply fascinated by the development of Artificial Intelligence and its potential to revolutionize various industries. With a strong foundation in data science and computational intelligence, I’m passionate about exploring AI’s applications, from natural language processing to computer vision, and contributing to innovations that push the boundaries of what AI can achieve. My work in AI spans research, development, and practical implementations, and I continuously strive to stay at the forefront of this rapidly evolving field.
 
-Outside of work, I'm interested in following the developments of science. I play video games and make tech-related content (over 1M+ combined followers and counting).
+Outside of work, I'm passionate about following the latest developments in science. I'm an Arsenal fan, enjoy watching football, and love playing basketball and video games.
 
 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
 
@@ -82,17 +82,3 @@ All of my projects are available at [https://github.com/AimanZaharin?tab=reposit
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" />
 </p>
-
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
-I'm [**Gazi**](https://gazijarin.com), a software engineer and artist in New York City.
-
-I currently work as a software engineer at [**@Google**](https://github.com/google), where I help build Proxybidder ML models that make Google Search money. Previously, I was at [**@Amazon**](https://github.com/aws) and [**@Pinterest**](https://github.com/pinterest).
-
-I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
-
-Outside of work, I'm interested in following the developments of science. I make [art](https://polyliths.tumblr.com/), play video games and make tech-related content (over 1M+ combined followers and counting).
-
-
-
-
