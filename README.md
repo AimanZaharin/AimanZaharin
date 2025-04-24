@@ -12,7 +12,8 @@
   <a href="https://instagram.com/naimanzaharin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimanzaharin" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlqoC%2BtHkSguc4mvhq8vCeA%3D%3D" target="blank">LinkedIn</a>
+  &nbsp; <!-- Adds space between Instagram and LinkedIn -->
+  <a href="https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlqoC%2BtHkSguc4mvhq8vCeA%3D%3D" target="blank" style="background-color:#0077b5; color:white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-size: 16px;">LinkedIn</a>
 </p>
 
 
