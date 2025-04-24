@@ -81,5 +81,5 @@ All of my projects are available at [Aiman Zaharin's Projects](https://github.co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin"/>
 </p>
