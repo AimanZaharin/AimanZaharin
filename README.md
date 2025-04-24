@@ -13,9 +13,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimanzaharin" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlqoC%2BtHkSguc4mvhq8vCeA%3D%3D" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="aimanzaharin" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="aimanzaharin" height="30" width="40" />
   </a>
 </p>
+
 
 ### 🧑‍💻 Programming Languages:
 <p align="left">
