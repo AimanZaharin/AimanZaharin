@@ -8,7 +8,7 @@ I am deeply fascinated by the development of Artificial Intelligence and its pot
 
 Outside of work, I'm passionate about following the latest developments in science. I'm an Arsenal fan, enjoy watching football, and love playing basketball and video games.
 
-All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
+All of my projects are available at [Aiman Zaharin's Projects](https://github.com/AimanZaharin?tab=repositories)
 
 📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
 
