@@ -79,8 +79,3 @@ All of my projects are available at [Aiman Zaharin's Projects](https://github.co
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin" alt="GitHub Streak"/>
-</p>
-
