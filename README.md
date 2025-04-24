@@ -78,4 +78,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" />
+</p>
+
