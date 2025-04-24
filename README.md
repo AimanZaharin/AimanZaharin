@@ -14,6 +14,7 @@ All of my projects are available at [https://github.com/AimanZaharin?tab=reposit
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/aimanzaharin)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/naimanzaharin)
 
 ### 🧑‍💻 Programming Languages:
 <p align="left">
