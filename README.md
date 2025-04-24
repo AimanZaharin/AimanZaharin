@@ -1,21 +1,19 @@
-<h1 align="center">Hi there, I'm Aiman Zaharin</h1>
-<h3 align="center">A young data scientist from Malaysia</h3>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-- 🔭 I’m a **Computer Science** student majoring in **Data Science and Computational Intelligence** at International Islamic University Malaysia.
-- 💼 Currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
-- 🌱 I'm a 4th-year student specializing in Data Science and Computational Intelligence, and I describe myself in three words: **passionate**, **determined**, and **organized**.
-- 🌟 I'm committed to diving deep into the complexities of **Computer Science** and continuously expanding my knowledge in this dynamic field.
+I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8qN25g%2FSwKTR%2FcZB8muHw%3D%3D), a Data and Machine Learning Scientist in Kuala Lumpur, Malaysia.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
+I am currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
 
-- 📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/naimanzaharin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimanzaharin" height="30" width="40" />
-  </a>
-</p>
+Outside of work, I'm interested in following the developments of science. I play video games and make tech-related content (over 1M+ combined followers and counting).
+
+All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
+
+📫 How to reach me **noraimanzaharinnoorazwan11@gmail.com**
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/aimanzaharin)
 
 ### 🧑‍💻 Programming Languages:
 <p align="left">
@@ -84,4 +82,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanzaharin&" alt="aimanzaharin" />
 </p>
+
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+I'm [**Gazi**](https://gazijarin.com), a software engineer and artist in New York City.
+
+I currently work as a software engineer at [**@Google**](https://github.com/google), where I help build Proxybidder ML models that make Google Search money. Previously, I was at [**@Amazon**](https://github.com/aws) and [**@Pinterest**](https://github.com/pinterest).
+
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
+
+Outside of work, I'm interested in following the developments of science. I make [art](https://polyliths.tumblr.com/), play video games and make tech-related content (over 1M+ combined followers and counting).
+
+
+
 
