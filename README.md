@@ -81,4 +81,8 @@ All of my projects are available at [Aiman Zaharin's Projects](https://github.co
 </p>
 
 ### My GitHub Profile Stats
-<center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AimanZaharin&theme=dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </center>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AimanZaharin&theme=dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
