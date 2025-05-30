@@ -1,12 +1,12 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8qN25g%2FSwKTR%2FcZB8muHw%3D%3D), a Data Scientist and Machine Learning Engineer in Kuala Lumpur, Malaysia.
+I'm [**Aiman Zaharin**](https://www.linkedin.com/in/aimanzaharin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8qN25g%2FSwKTR%2FcZB8muHw%3D%3D), a Data Scientist and AI/Machine Learning Engineer in Kuala Lumpur, Malaysia.
 
 I am currently a **Data Science Intern** at **PETRONAS Digital Sdn Bhd**.
 
 I am deeply fascinated by the development of Artificial Intelligence and its potential to revolutionize various industries. With a strong foundation in data science and computational intelligence, I’m passionate about exploring AI’s applications, from natural language processing to computer vision, and contributing to innovations that push the boundaries of what AI can achieve. My work in AI spans research, development, and practical implementations, and I continuously strive to stay at the forefront of this rapidly evolving field.
 
-Outside of work, I'm passionate about following the latest developments in science. I'm an Arsenal fan, enjoy watching football, and love playing basketball and video games.
+Outside of work, I'm passionate about following the latest developments in science. I'm an Arsenal fan, enjoy watching football, and love playing basketball.
 
 All of my projects are available at [Aiman Zaharin's Projects](https://github.com/AimanZaharin?tab=repositories)
 
