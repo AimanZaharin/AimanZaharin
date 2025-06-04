@@ -61,7 +61,18 @@ All of my projects are available at [Aiman Zaharin's Projects](https://github.co
 </p>
 
 ### 🤖 AI/ML Tools:
-<p align="left"> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="auto" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
+  </a> 
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" 
+         alt="openai" 
+         style="background-color: white; padding: 4px; border-radius: 6px;" 
+         height="40"/> 
+  </a> 
+</p>
+
 
 ### My GitHub Profile Stats
 <p align="center">
